@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "achievments.html",
+    "currentPage": "role.html",
     "name": "IS 2017-up2",
     "theme": {
       "name": "mobirise3",
@@ -413,7 +413,7 @@
           },
           "title1": "华乐萌芽",
           "subtitle1": "",
-          "caption1": "从二十年代到三十年代，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
+          "caption1": "在最起初的时候，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
           "button1": "<a data-app-btn=\"true\" href=\"background.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
           "media2": {
             "iconFont": {
@@ -430,7 +430,7 @@
           },
           "title2": "华乐社团",
           "subtitle2": "",
-          "caption2": "二十年代至四十年代时，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。<br>",
+          "caption2": "接下来的几年，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。<br>",
           "button2": "<a data-app-btn=\"true\" href=\"firstco.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
           "media3": {
             "iconFont": {
@@ -447,7 +447,7 @@
           },
           "title3": "面对的困难",
           "subtitle3": "",
-          "caption3": "接下来的十年，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。&nbsp;<br>",
+          "caption3": "但同时，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"difficulties.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">更多</a>",
           "media4": {
             "iconFont": {
@@ -631,7 +631,7 @@
             "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ochm-12.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ochm-13.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -768,13 +768,13 @@
           },
           "title1": "华乐萌芽",
           "subtitle1": "",
-          "caption1": "从二十年代到三十年代，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
+          "caption1": "在最起初的时候，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
           "title2": "华乐社团",
           "subtitle2": "",
-          "caption2": "二十年代至四十年代时，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。<br>",
+          "caption2": "接下来几年，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。<br>",
           "title3": "面对的困难",
           "subtitle3": "",
-          "caption3": "接下来的五年，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。 &nbsp;<br>",
+          "caption3": "但同时，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。 &nbsp;<br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1749,13 +1749,13 @@
           },
           "title1": "华乐萌芽",
           "subtitle1": "",
-          "caption1": "从二十年代到三十年代，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
+          "caption1": "在最起初的时候，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
           "title2": "华乐社团",
           "subtitle2": "",
-          "caption2": "二十年代至四十年代时，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。<br>",
+          "caption2": "接下来的几年，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。<br>",
           "title3": "面对的困难",
           "subtitle3": "",
-          "caption3": "接下来的十年，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。 &nbsp;<br>",
+          "caption3": "但同时，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。 &nbsp;<br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1945,7 +1945,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>新加坡60年代时表演的其中一个京剧</p><p>（照片由新加坡国家档案馆提供）</p>",
+          "text": "<p>新加坡以前表演的其中一个京剧</p><p>（照片由新加坡国家档案馆提供）</p>",
           "_tags": [
             "Theme"
           ],
@@ -4947,7 +4947,7 @@
             "paddingTop": "5",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ochm-12.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ochm-13.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -5084,13 +5084,13 @@
           },
           "title1": "华乐萌芽",
           "subtitle1": "",
-          "caption1": "从二十年代到三十年代，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
+          "caption1": "在最起初的时候，我们能够看到华乐在新加坡开始萌芽的现象和当时华族音乐的社会意义与角色。",
           "title2": "华乐社团",
           "subtitle2": "",
-          "caption2": "二十年代至四十年代时，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。&nbsp;<br>",
+          "caption2": "接下来的几年，首几个业余的华族音乐合奏团以及新加坡首个中国式的华乐团，陶融儒乐社，被创立了。&nbsp;<br>",
           "title3": "面对的困难",
           "subtitle3": "",
-          "caption3": "接下来的十年，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。 &nbsp;<br>",
+          "caption3": "但同时，我们也能见证到第二世界大战所带给本地华乐发展的困难以及本地音乐家如何利用自己的意志力和创意来解决这些问题。 &nbsp;<br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
